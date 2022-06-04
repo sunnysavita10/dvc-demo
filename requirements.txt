@@ -1,6 +1,7 @@
 dvc
 pandas
 scikit-learn
+numpy
 
 # local packages -
 -e .
